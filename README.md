@@ -115,3 +115,7 @@ hace posible crear e inicializar una instancia de clase.
 
 ## ejemplo de clase vehiculo
 ![alt text](screen.jpg)
+
+
+# ejemplo del cuadrado
+![alt text](screen2-1.jpg)
